@@ -12,15 +12,15 @@
  
 + matematiksel operatörler
  
-`Random.Range(minX, maxX) ;` # 		random sayı üret
-`Vector3.dot(a,b)  ;` #          	a noktası ile b noktasının nokta çarpımı
-`Vector3.Magnitude(a) ; `#       	a vektörünün uzunluğu   
-`Mathf.Acos(a)  ; `					a nın arccos'unu alma  
-`Mathf.Cross(a,b) ;`            	a ve b arasında çapraz çarpım
-`Vector3.Distance(a,b) ;` 			iki nokta arası uzaklık
-`k.normalized  ;`					k vektörünü normalize etmek (vektor distance =1)
-`açı* Mathf.Rad2Deg`				radyan çevirme
+ 	+ `Random.Range(minX, maxX) ;` # 		random sayı üret
+ 	+ `Vector3.dot(a,b)  ;` #          	a noktası ile b noktasının nokta çarpımı
+ 	+ `Vector3.Magnitude(a) ; `#       	a vektörünün uzunluğu   
+ 	+ `Mathf.Acos(a)  ; `					a nın arccos'unu alma  
+ 	+ `Mathf.Cross(a,b) ;`            	a ve b arasında çapraz çarpım
+ 	+ `Vector3.Distance(a,b) ;` 			iki nokta arası uzaklık
+ 	+ `k.normalized  ;`					k vektörünü normalize etmek (vektor distance =1)
+ 	+ `açı* Mathf.Rad2Deg`				radyan çevirme
 
 + Çizdirmek
 
-`Debug.DrawLine(a,b,Color.red,100f)`	a noktası ile b noktası arasında kırmızı bir doğru çizdir
+	+ `Debug.DrawLine(a,b,Color.red,100f)`	a noktası ile b noktası arasında kırmızı bir doğru çizdir

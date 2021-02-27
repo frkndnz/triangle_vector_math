@@ -26,4 +26,5 @@
 
 	+ `Debug.DrawLine(a,b,Color.red,100f)`	a noktası ile b noktası arasında kırmızı bir doğru çizdir
 ## Çıktılar
+![üçgen](https://user-images.githubusercontent.com/71338348/109402346-3d7a9180-7966-11eb-81b0-12f7bb4d8052.png)
 ![console_üçgen_çıktı](https://user-images.githubusercontent.com/71338348/109402321-04422180-7966-11eb-91f8-570609197a19.png)

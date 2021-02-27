@@ -6,9 +6,9 @@
 
 + dizi ve vector 
 
-`vector3[] dizi  ; ` 					vectorel boş dizi oluştur	
-`a = dizi[0] = new Vector3(0, 0, 0); `	dizi ye yeni nokta atama  
-`vector3 a ; `						 	vectorel 1 nokta   
+`vector3[] dizi  ; ` 					vectorel boş dizi oluştur ---	
+`a = dizi[0] = new Vector3(0, 0, 0); `	dizi ye yeni nokta atama  ---
+`vector3 a ; `						 	vectorel 1 nokta   ---
  
 + matematiksel operatörler
  
